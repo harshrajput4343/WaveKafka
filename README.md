@@ -527,6 +527,6 @@ For questions, issues, or feature requests:
 
 ---
 
-**Built with ❤️ for Real-Time Data Engineering**
+**Built with effort for Real-Time Data Engineering**
 
-*Last Updated: November 2025*
+*Last Updated: Feb 2025*
