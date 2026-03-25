@@ -138,7 +138,7 @@ echo "# 11. Run Spark Processor (Terminal 2)"
 echo '   .\venv\Scripts\python.exe spark_processor.py'
 echo ""
 echo "# 12. Run Streamlit Dashboard (Terminal 3)"
-echo '   .\venv\Scripts\streamlit.exe run dashboard.py'
+echo '   .\venv\Scripts\python.exe -m streamlit run H:\Projects\WaveKafka\dashboard.py'
 echo ""
 echo "# 13. Open browser"
 echo "   http://localhost:8501"
